@@ -1,1 +1,2 @@
-# pildoras-programacion-y-sistemas
+# Píldoras de Programación y Sistemas
+Repositorio dedicado al código subido en ...
